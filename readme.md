@@ -20,4 +20,4 @@ Run these steps with this serve command from online node package "serve" like so
 npx serve
 ```
 ### Youtbue Video for this Tutorial
-[Online Tutorial]([https://link-url-here.org](https://youtube.com/playlist?list=PLd1iF8WLA_Ls05YqAjV1T4s3zxMEqOJ5i))
+[Online Tutorial]([[https://link-url-here.org])
